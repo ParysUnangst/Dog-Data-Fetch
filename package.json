@@ -1,0 +1,30 @@
+{
+  "name": "dog-data-fetch",
+  "version": "1.0.0",
+  "description": "A simplified version of the dog facts API using Node.js and express.js. This API allows users to retrieve dog facts in JSON format.",
+  "main": "Dog_Fetch.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specification\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParysUnangst/Dog-Data-Fetch.git"
+  },
+  "keywords": [
+    "Fetch",
+    "Promise",
+    "API",
+    "Node.Js",
+    "HTML",
+    "Express.js"
+  ],
+  "author": "Parys Unangst parys.unangst@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ParysUnangst/Dog-Data-Fetch/issues"
+  },
+  "homepage": "https://github.com/ParysUnangst/Dog-Data-Fetch#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
